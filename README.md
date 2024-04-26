@@ -1,2 +1,2 @@
 # Sentinel
-Sentinel is an AI companion designed to help users protect their privacy, enhance their productivity and better their mental health.
+Sentinel is an ongoing research project on AI self improvement via changes on an architectural level, going beyond adjusting simple weights and biases.
